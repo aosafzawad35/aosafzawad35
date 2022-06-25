@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aosafzawad35
-- 👀 I’m interested in WebDev and Projects
-- 🌱 I’m currently learning Python, C, C++, HTML, CSS, JS
+- 👀 I’m interested in WebDev and Projects that involve basic Python
+- 🌱 I’m currently learning Python, HTML, CSS, JS
 - 📫 How to reach me: 
       Insta: @im_aosaf
       Facebook: https://www.facebook.com/aosaf.zawad.52/
