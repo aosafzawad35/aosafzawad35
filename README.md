@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev and Projects that involve basic Python
 - 🌱 I’m currently learning Python, HTML, CSS, JS
 - 📫 How to reach me: 
-      Insta: @im_aosaf
+      Insta: @aosafzzz
       Facebook: https://www.facebook.com/aosaf.zawad.52/
 
 <!---
